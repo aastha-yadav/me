@@ -24,7 +24,7 @@ html,body{
     align-items: center;
 }
 #h1{
-    font-size: 70px;
+    font-size: 10vh;
     font-weight: bolder;
     color: rgba(179, 162, 229, 0);
     -webkit-text-stroke:white 4px;
